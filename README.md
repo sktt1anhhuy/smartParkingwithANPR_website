@@ -21,4 +21,8 @@ streamlit run [your directory to]/app.py # for example E:/smartParkingwithANPR_w
 # Quick Guild
 
 ## Data
-The data is used for training Licence Plate Detection is the combination from this [link](https://github.com/thigiacmaytinh/DataThiGiacMayTinh/blob/main/GreenParking.zip) for only one Motorbike Licence Plate and from internet by searching with some specific keyword such as "2 biển số xe máy", "nhiều xe máy"
+The data is used for training Licence Plate Detection is the combination from this [link](https://github.com/thigiacmaytinh/DataThiGiacMayTinh/blob/main/GreenParking.zip) for only one Motorbike Licence Plate and from internet by searching with some specific keyword such as "2 biển số xe máy", "nhiều xe máy". Then this data is labeled by using [CVAT](https://www.cvat.ai/) and download in Yolov1.1 format
+
+## Training
+
+1. Run the file train.py
