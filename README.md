@@ -41,12 +41,9 @@ test: images/test
 # Classes
 names:
   0: motorbike plate
-  '''
-  1: car plate
-  2: bird
-  3: duck
-  ...
-  '''
+  # 1: car plate
+  # 2: bird
+  # 3: duck
 ```
 3. Run the file train.py
 4. After traning the weights of the model will be save at "runs/detect/train" in smartParkingwithANPR_website named "best.pt". Remember to change the name "best.pt" to "best1.pt" or some name you want to avoid duplication since we already have a file name "best.pt". You run the "app.py" with your own weight by changing the variable name line 38 in "app.py" to yours weight name
