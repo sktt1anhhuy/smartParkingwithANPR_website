@@ -18,6 +18,10 @@ pip install -r requirements.txt
 cd smartParkingwithANPR_website
 streamlit run [your directory to]/app.py # for example E:/smartParkingwithANPR_website
 ```
+## Result
+
+![](https://github.com/sktt1anhhuy/smartParkingwithANPR_website/blob/master/output_video.gif)
+
 # Quick Guild
 
 ## Data
