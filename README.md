@@ -5,7 +5,16 @@
 2. Install [git](https://git-scm.com/)
 3. Install [PyCharm](https://www.jetbrains.com/pycharm/)
 4. Create a project in PyCharm
-5. At terminal, type 
+5. At terminal of project in Pycharm, type 
   ```python
 git clone https://github.com/sktt1anhhuy/smartParkingwithANPR_website.git
+```
+6. Install essential library
+```python
+pip install -r requirements.txt
+```
+7. Run the web app, type at terminal
+```python
+cd smartParkingwithANPR_website
+streamlit run app.py
 ```
