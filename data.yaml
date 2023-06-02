@@ -1,0 +1,8 @@
+path: "path to your root data"
+train: "path to your train images"
+val: "path to your val images"
+test: "path to your test images"
+
+# Classes
+names:
+  0: motorbike plate
