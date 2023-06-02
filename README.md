@@ -1,7 +1,3 @@
 # smartParkingwithANPR_website
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+## Install [python]([https://www.google.com](https://www.python.org/downloads/)) 
