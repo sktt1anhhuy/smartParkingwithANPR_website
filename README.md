@@ -19,3 +19,6 @@ cd smartParkingwithANPR_website
 streamlit run [your directory to]/app.py # for example E:/smartParkingwithANPR_website
 ```
 # Quick Guild
+
+## Data
+The data is used for training Licence Plate Detection is the combination from this [link](https://github.com/thigiacmaytinh/DataThiGiacMayTinh/blob/main/GreenParking.zip) for only one Motorbike Licence Plate and from internet by searching with some specific keyword such as "2 biển số xe máy", "nhiều xe máy"
