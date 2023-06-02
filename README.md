@@ -16,5 +16,5 @@ pip install -r requirements.txt
 7. Run the web app, type at terminal
 ```python
 cd smartParkingwithANPR_website
-streamlit run app.py
+streamlit run [your directory to]/app.py # for example E:/smartParkingwithANPR_website
 ```
