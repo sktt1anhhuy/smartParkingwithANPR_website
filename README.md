@@ -1,6 +1,6 @@
 # smartParkingwithANPR_website
 
-## Installation Guilde
+## Installation Guide
 1. Install [python](https://www.python.org/downloads/)
 2. Install [git](https://git-scm.com/)
 3. Install [PyCharm](https://www.jetbrains.com/pycharm/)
@@ -22,7 +22,7 @@ streamlit run [your directory to]/app.py # for example E:/smartParkingwithANPR_w
 
 ![](https://github.com/sktt1anhhuy/smartParkingwithANPR_website/blob/master/output_video.gif)
 
-# Quick Guild
+# Quick Guide
 
 ## Data
 The data is used for training Licence Plate Detection is the combination from this [link](https://github.com/thigiacmaytinh/DataThiGiacMayTinh/blob/main/GreenParking.zip) for only one Motorbike Licence Plate and from internet by searching with some specific keyword such as "2 biển số xe máy", "nhiều xe máy". Then this data is labeled by using [CVAT](https://www.cvat.ai/) and download in Yolov1.1 format
