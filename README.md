@@ -20,7 +20,7 @@ streamlit run [your directory to]/app.py # for example E:/smartParkingwithANPR_w
 ```
 ## Result
 
-https://github.com/sktt1anhhuy/smartParkingwithANPR_website/blob/master/video_demo.webm
+[video_demo.webm](https://github.com/sktt1anhhuy/smartParkingwithANPR_website/assets/87512676/087232d2-15fb-466b-ba53-e8773a342d3f)
 
 # Quick Guide
 
