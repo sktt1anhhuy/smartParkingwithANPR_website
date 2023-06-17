@@ -20,7 +20,7 @@ streamlit run [your directory to]/app.py # for example E:/smartParkingwithANPR_w
 ```
 ## Result
 
-![](https://github.com/sktt1anhhuy/smartParkingwithANPR_website/blob/master/video_demo.webm)
+https://github.com/sktt1anhhuy/smartParkingwithANPR_website/blob/master/video_demo.webm
 
 # Quick Guide
 
